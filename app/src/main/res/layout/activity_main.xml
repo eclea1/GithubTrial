@@ -11,7 +11,7 @@
     tools:context="com.prog.elija.githubtrial.MainActivity">
 
     <TextView
-        android:text="Test using github"
+        android:text="Test using github!"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerVertical="true"
